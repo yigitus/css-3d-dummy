@@ -297,6 +297,7 @@ body {
 
 /* __Animations__ */
 
+/* Container */
 @keyframes containerSpin {
     0% {
         transform: rotateY(0deg) rotateX(0deg);
@@ -309,6 +310,7 @@ body {
     }
 }
 
+/* Legs */
 @keyframes moveLeftLeg {
     0% {
         transform: rotateX(-50deg) translateZ(-120px);
